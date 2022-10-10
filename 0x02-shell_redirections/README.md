@@ -33,16 +33,17 @@
 
 11. Write a script that counts the number of directories and sub-directories in the current directory.
 
-    	  -The current and parent directories should not be taken into account
-	  -Hidden directories should be counted
+    -The current and parent directories should not be taken into account
+
+    -Hidden directories should be counted
 
 12. Create a script that displays the 10 newest files in the current directory.
 
-    	    Requirements:
+     Requirements:
 
-	    -One file per line
+    -One file per line
 
-	    -Sorted from the newest to the oldest
+    -Sorted from the newest to the oldest
 
 13. Create a script that takes a list of words as input and prints only words that appear exactly once.
 
