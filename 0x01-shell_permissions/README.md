@@ -1,4 +1,6 @@
-# Tasks
+#  0x01. Shell, permissions
+
+## Tasks
 
 0. Create a script that switches the current user to the user `betty`.
 
