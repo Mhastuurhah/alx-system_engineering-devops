@@ -1,58 +1,16 @@
+![alx](https://user-images.githubusercontent.com/70760998/195575564-54aaaeb8-56a2-4621-af14-fdf878620464.png)
 
-### Shell Basics
+# ALX System engineering and DevOps
 
-    - What do the commands ls, less, file do
+> Currently learning bash scripts, shell
 
-    - How do you use options and arguments with commands
+## About
+- This repository contains all of the system engineering and devops tasks done during my software engineering internship at [ALX Africa](https://www.alxafrica.com/).
+ 
+- [0X00](https://github.com/Mhastuurhah/alx-system_engineering-devops/tree/master/0x00-shell_basics): Shell Basics
 
-    - Understand the ls long format and how to display it
-
-    - What does the ln command do
-
-    - What is the difference between a hard link and a symbolic link
-
-    - What do the commands cp, mv, rm, mkdir do
-
-    - How to use wildcards
-
-### Shell Permissions
-
-    - What do the commands chmod, sudo, su, chown, chgrp do
-
-    - Linux file permissions
-
-    - How to represent each of the three sets of permissions (owner, group, and other) as a single digit
-
-    - How to change permissions, owner and group of a file
-
-    - Why can’t a normal user chown a file
-
-    - How to run a command with root privileges
-
-    - How to change user ID or become superuser
+- [0x01](https://github.com/Mhastuurhah/alx-system_engineering-devops/tree/master/0x01-shell_permissions): Shell Permissions
     
-### Shell, I/O Redirection
-
-    - What do the commands head, tail, find, wc, sort, uniq, grep, tr do
-
-    - How to redirect standard output to a file
-
-    - How to get standard input from a file instead of the keyboard
-
-    - How to send the output from one program to the input of another program
-
-    - How to combine commands and filters with redirections
+- [0x02](https://github.com/Mhastuurhah/alx-system_engineering-devops/tree/master/0x02-shell_redirections): Shell, I/O Redirection
    
-### Shell , init files, variables and expansions
-
-    - What is the difference between a local and a global variable
-
-    - What is a reserved variable
-
-    - How to create, update and delete shell variables
-
-    - What are the roles of the following reserved variables: HOME, PATH, PS1
-
-    - What are special parameters
-
-    - What is the special parameter $? ?
+- [0x03](https://github.com/Mhastuurhah/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions):  Shell , init files, variables and expansions
