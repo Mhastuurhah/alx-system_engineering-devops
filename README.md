@@ -1,4 +1,3 @@
-# Shell
 
 ### Shell Basics
 
